@@ -1,0 +1,35 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (test1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  slider.cpp
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.h(9,27): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(19,42): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(19,35): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(19,28): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(19,21): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(26,53): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(26,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(27,52): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(27,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(33,32): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(33,21): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(39,43): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(39,31): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(54,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(55,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(58,34): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(58,23): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(59,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(61,34): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(61,23): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(63,22): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(66,22): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(69,16): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(73,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(81,21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\slider.cpp(97,34): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 841 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\bin\Film_Browser.exe

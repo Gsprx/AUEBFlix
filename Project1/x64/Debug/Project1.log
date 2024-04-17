@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (test1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  textfield.cpp
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\textfield.cpp(11,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\textfield.cpp(12,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\textfield.cpp(70,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\textfield.cpp(70,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\textfield.cpp(70,31): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\textfield.cpp(70,24): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\textfield.cpp(100,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\Project1\textfield.cpp(100,44): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\Gasparis\OneDrive\Desktop\AUEB\3ο Εξάμηνο\C++\Film_Browser\bin\Film_Browserd.exe
